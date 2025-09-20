@@ -67,6 +67,6 @@ It helps users find basic information about chemical elements (atoms) using thei
 
 ## 👤 Author
 
-Md. Riad Hasan  
+Lutfun Nahar Barsha
 BSCSE    
 Uttara University
