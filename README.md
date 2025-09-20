@@ -54,12 +54,12 @@ It helps users find basic information about chemical elements (atoms) using thei
 
 <table>
   <tr>
-    <td><img src="u1.png" alt="Home UI" width="300"/></td>
-    <td><img src="u2.png" alt="Search Result" width="300"/></td>
+    <td><img src="valid.jpg" alt="Home UI" width="300"/></td>
+    <td><img src="v result.jpg" alt="Search Result" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="au1.png" alt="Invalid Entry" width="300"/></td>
-    <td><img src="au2.png" alt="About Window" width="300"/></td>
+    <td><img src="radio.jpg" alt="Invalid Entry" width="300"/></td>
+    <td><img src="r result.jpg" alt="About Window" width="300"/></td>
   </tr>
 </table>
 
